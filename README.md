@@ -1,2 +1,0 @@
-# styden.github.io
-Lol
