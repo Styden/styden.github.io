@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'AvanteGo';
+    src: url('Avante.tff') format('truetype'),
+         url('Avante.woff') format('woff');
+}
+
+.link1
+{
+  color: red;
+}
+
+*
+{
+  font-family: Verdana, sans-serif;
+
+h1
+{
+font-family: 'AvanteGo', sans-serif;
+}
