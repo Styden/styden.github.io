@@ -1,7 +1,10 @@
 @font-face {
-    font-family: 'AvanteGo';
-    src: url('Avante.tff') format('truetype'),
-         url('Avante.woff') format('woff');
+  font-family: 'Avante';
+  src: url('e.eot');
+  src: local('☺'),
+    url("e.woff") format("woff"),
+    url("e.otf") format("opentype"),
+    url("e.svg#grablau") format("svg");
 }
 
 .link1
@@ -15,5 +18,5 @@
 
 h1
 {
-font-family: 'AvanteGo', sans-serif;
+font-family: 'Avante', sans-serif;
 }
