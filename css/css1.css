@@ -1,10 +1,12 @@
 @font-face {
   font-family: 'Avante';
-  src: url('e.eot');
-  src: local('☺'),
-    url("e.woff") format("woff"),
-    url("e.otf") format("opentype"),
-    url("e.svg#grablau") format("svg");
+  src: url('e.eot'); 
+  src: url('e.eot?#iefix') format('embedded-opentype'), 
+       url("e.woff") format("woff"),
+       url("e.otf") format("opentype"),
+       url("e.svg#Avante") format("svg");
+  font-weight: normal;
+  font-style: normal;
 }
 
 .link1
