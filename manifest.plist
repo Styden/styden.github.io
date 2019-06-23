@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.e4bf058461-1-42</string>
+				<string>com.panic.coda.site</string>
 				<key>bundle-version</key>
-				<string>1</string>
+				<string>109379</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Jailbreak9.3</string>
+				<string>Coda</string>
 			</dict>
 		</dict>
 	</array>
